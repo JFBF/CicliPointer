@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="co.edu.javeriana.ciclipointer.UserAdapter">
+
+    <ImageView
+        android:id="@+id/imageC"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:src="@drawable/miniuser"/>
+
+    <TextView
+        android:id="@+id/nombre"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_weight="0.4"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/correo"
+        android:layout_height="45dp"
+        android:layout_width="0dp"
+        android:layout_weight="0.4"
+        android:gravity="center|left"/>
+
+    <CheckedTextView
+        android:id="@+id/text1"
+        android:layout_width="0dp"
+        android:layout_height="?android:attr/listPreferredItemHeightSmall"
+        android:layout_weight="0.2"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:gravity="center_vertical"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+        android:paddingEnd="?android:attr/listPreferredItemPaddingEnd" />
+</LinearLayout>

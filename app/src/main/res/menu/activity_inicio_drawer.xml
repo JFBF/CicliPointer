@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/profile"
+            android:title="Mi Perfil" />
+        <item
+            android:id="@+id/nav_amigos"
+            android:icon="@drawable/amigos"
+            android:title="Amigos" />
+        <item
+            android:id="@+id/nav_mis_rutas"
+            android:icon="@drawable/iconomapa"
+            android:title="Mis Rutas" />
+        <item
+            android:id="@+id/nav_mis_viajes_grupales"
+            android:icon="@drawable/viajesgrupales"
+            android:title="Mis Viajes Grupales" />
+        <item
+            android:id="@+id/nav_mis_programados"
+            android:icon="@drawable/programados"
+            android:title="Mis Viajes programados" />
+        <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/bici"
+        android:title="Rutas especiales" />
+        <item
+            android:id="@+id/nav_turismo"
+            android:icon="@drawable/tur"
+            android:title="Turismo" />
+    </group>
+
+    <item android:title="Communícate">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Mensajes" />
+        </menu>
+    </item>
+
+</menu>
