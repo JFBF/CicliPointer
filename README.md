@@ -6,7 +6,7 @@ aplicación móvil para ciclistas hecha con android studio donde se podrán crea
 mensajería, etc.
 
 
-## Información de miembro: [Wiki_Miembros](https://github.com/JFBF/CicliPointer/wiki).
+## Información de miembro: [Wiki_Miembro](https://github.com/JFBF/CicliPointer/wiki).
 ## Información de proyecto: [Proyecto](https://github.com/PUJCompMovM1730/CicliPointer).
 
 
