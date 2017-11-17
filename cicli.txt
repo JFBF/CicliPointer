@@ -1,0 +1,32 @@
+
+
+7. listener recorrido programado solo o grupal,
+ notifique cuanto falta para empezar y al tocar notificación, 
+envíar activity con opci´pn iniciar ya o cancelar. (agregar opción menú de
+rutas programadas, donde se mostrará el mapa con la más cercana)
+funciona con proceso en segundo plano, que revisa cada hora 
+si fecha ya pasó lo elimina, sino abre intent.
+
+
+8. mensaje a usuarios.
+
+9. agregar en barra ligares interes también
+ lugares a 1km como usuarios.
+
+*amigos :falta que diga cuando otro aceptó.
+	:busqueda mejorar, si trae todo en alfabetico y no hacer
+	 de nuevo consulta a firebase, sino local.
+* que no gire pantallas
+* documentar métodos
+* clima
+* ver si se puede mover camara despacio
+* fechas al programar no se cruzen, personal y grupal.
+¨* guardar ruta arreglar tipo.
+
+existe: 
+recorridos: hechos por usuario, pueden ser grupal o normal.
+rutas: empresa o especiales nuestros.
+ruta programada: ruta programada que se borra cuando se cumple o no.
+ruta grupal: ruta que tiene usuarios invitados y crea ruta programada en
+los usuarios invitados de tipo grupal.
+rutas propias: rutas guardadas por el usuario.

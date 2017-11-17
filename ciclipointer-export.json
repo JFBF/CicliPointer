@@ -1,0 +1,413 @@
+{
+  "amistades" : {
+    "2FhEyeYD08bheLyPhSLyybn53wk2" : {
+      "amigos" : [ "2ruDdoApgBc5MNkmf83atyrvZ8z2" ]
+    },
+    "2ruDdoApgBc5MNkmf83atyrvZ8z2" : {
+      "amigos" : [ "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2", "2FhEyeYD08bheLyPhSLyybn53wk2" ]
+    },
+    "LJfiHwAyrMg4XabamWZZTBEzwwF3" : {
+      "amigos" : [ "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" ]
+    },
+    "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" : {
+      "amigos" : [ "2ruDdoApgBc5MNkmf83atyrvZ8z2", "hlHnPIdMSfcqkBmLemIc4iONBna2", "LJfiHwAyrMg4XabamWZZTBEzwwF3" ]
+    },
+    "hlHnPIdMSfcqkBmLemIc4iONBna2" : {
+      "amigos" : [ "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" ]
+    }
+  },
+  "grupales" : {
+    "2ruDdoApgBc5MNkmf83atyrvZ8z2" : {
+      "-KxovLUdJGjN2u_VWd-W" : {
+        "confirmados" : [ "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" ],
+        "fecha" : "1/11/2017",
+        "hora" : "19:13",
+        "invitados" : [ "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2", "2FhEyeYD08bheLyPhSLyybn53wk2" ],
+        "latDestino" : 4.632014793617148,
+        "latOrigen" : 4.624215632471445,
+        "longDestino" : -74.06433541327715,
+        "longOrigen" : -74.06582336872816,
+        "programadosConfirmados" : [ "-KxovUxhXjsZNtaorQWQ" ],
+        "ruta" : 0,
+        "tipo" : "Programado-Grupal",
+        "tipoGru" : "Normal"
+      }
+    },
+    "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" : {
+      "-KxpFW2D8Bhqc2d7K8jo" : {
+        "confirmados" : [ "2ruDdoApgBc5MNkmf83atyrvZ8z2" ],
+        "fecha" : "1/11/2017",
+        "hora" : "20:46",
+        "invitados" : [ "2ruDdoApgBc5MNkmf83atyrvZ8z2" ],
+        "latDestino" : 4.619989185112226,
+        "latOrigen" : 4.63193592687667,
+        "longDestino" : -74.0674239769578,
+        "longOrigen" : -74.06849049031734,
+        "programadosConfirmados" : [ "-KxpFgBFbD9Qu1oMOuUj" ],
+        "ruta" : 1,
+        "tipo" : "Programado-Grupal",
+        "tipoGru" : "Normal"
+      },
+      "-Ky6kQ0GAIZGqLwLWssn" : {
+        "fecha" : "5/11/2017",
+        "hora" : "10:58",
+        "invitados" : [ "2ruDdoApgBc5MNkmf83atyrvZ8z2", "hlHnPIdMSfcqkBmLemIc4iONBna2" ],
+        "latDestino" : 4.636552958186099,
+        "latOrigen" : 4.624843231186805,
+        "longDestino" : -74.0642013028264,
+        "longOrigen" : -74.06616669148207,
+        "ruta" : 1,
+        "tipo" : "Programado-Grupal",
+        "tipoGru" : "Normal"
+      },
+      "-KzAAm0vegCHw9ivBo-X" : {
+        "fecha" : "18/11/2017",
+        "hora" : "13:12",
+        "invitados" : [ "2ruDdoApgBc5MNkmf83atyrvZ8z2", "hlHnPIdMSfcqkBmLemIc4iONBna2" ],
+        "latDestino" : 4.641900803505855,
+        "latOrigen" : 4.6302326036451,
+        "longDestino" : -74.07058261334896,
+        "longOrigen" : -74.0693997591734,
+        "ruta" : 1,
+        "tipo" : "Programado-Grupal",
+        "tipoGru" : "Normal"
+      }
+    }
+  },
+  "marcadores" : {
+    "-KzAqvImmtfgUYmmbPer" : {
+      "descripción" : "lindo\n",
+      "fecha" : "18/11/2017",
+      "latitud" : 4.732954619721016,
+      "longitud" : -74.06903497874737,
+      "nombre" : "hotel cerca"
+    }
+  },
+  "programados" : {
+    "LJfiHwAyrMg4XabamWZZTBEzwwF3" : {
+      "-KzAACN3Sn7lxheANlwg" : {
+        "fecha" : "18/11/2017",
+        "hora" : "13:10",
+        "latDestino" : 4.629819220480518,
+        "latOrigen" : 4.624187226765631,
+        "longDestino" : -74.06871277838945,
+        "longOrigen" : -74.06539421528578,
+        "ruta" : 1,
+        "tipo" : "Programado-Personal"
+      },
+      "-KzAAIa4oBhuTMPIiVe8" : {
+        "fecha" : "18/11/2017",
+        "hora" : "11:48",
+        "latDestino" : 5.716084799999999,
+        "latOrigen" : 4.630289748752318,
+        "longDestino" : -72.93112889999999,
+        "longOrigen" : -74.06404975801706,
+        "ruta" : 0,
+        "tipo" : "Programado-Turismo"
+      }
+    },
+    "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" : {
+      "-KzAAhyA6xCq9bHPbQKF" : {
+        "fecha" : "18/11/2017",
+        "hora" : "11:48",
+        "latDestino" : 5.716084799999999,
+        "latOrigen" : 4.630289748752318,
+        "longDestino" : -72.93112889999999,
+        "longOrigen" : -74.06404975801706,
+        "ruta" : 0,
+        "tipo" : "Programado-Turismo"
+      },
+      "-KzAAm2lXun8y25664H-" : {
+        "fecha" : "18/11/2017",
+        "hora" : "13:12",
+        "keyAnfitrion" : "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2",
+        "keyGrupal" : "-KzAAm0vegCHw9ivBo-X",
+        "latDestino" : 4.641900803505855,
+        "latOrigen" : 4.6302326036451,
+        "longDestino" : -74.07058261334896,
+        "longOrigen" : -74.0693997591734,
+        "ruta" : 1,
+        "tipo" : "Programado-Grupal"
+      }
+    }
+  },
+  "propio" : {
+    "Alto Rendimiento" : {
+      "Montaña Extrema" : {
+        "Cerro Monserrate" : {
+          "latitud" : 4.605694,
+          "longitud" : -74.055526
+        },
+        "Mirador la Calera" : {
+          "latitud" : 4.674615,
+          "longitud" : -74.037002
+        }
+      },
+      "Viaje Largo" : {
+        "Catedral de Sal Zipaquirá" : {
+          "latitud" : 5.018889,
+          "longitud" : -74.009984
+        }
+      }
+    },
+    "Comelona Usaquen" : {
+      "Bueno Bonito y Barato(3B) Centro" : {
+        "Café Para Dos" : {
+          "latitud" : 4.598704,
+          "longitud" : -74.070356
+        },
+        "La Totuma Corrida" : {
+          "latitud" : 4.597926,
+          "longitud" : -74.069631
+        },
+        "Sabrosuras Costeñas donde Carmen" : {
+          "latitud" : 4.599527,
+          "longitud" : -74.069246
+        }
+      },
+      "Chatarritas" : {
+        "Alrededores Hacienda Santa Barbara" : {
+          "latitud" : 4.69261,
+          "longitud" : -74.033249
+        },
+        "Empanada el Calidoso" : {
+          "latitud" : 4.697524,
+          "longitud" : -74.031095
+        },
+        "Restaurante Blancos y Negros" : {
+          "latitud" : 4.699683,
+          "longitud" : -74.029037
+        }
+      }
+    },
+    "Jovenes en Acción" : {
+      "Aventura Leve" : {
+        "Jardín Botanico" : {
+          "latitud" : 4.670433,
+          "longitud" : -74.100956
+        },
+        "Lago Parque de los Novios" : {
+          "latitud" : 4.654693,
+          "longitud" : -74.08121
+        },
+        "Palacio de los Deportes" : {
+          "latitud" : 4.655398,
+          "longitud" : -74.084107
+        },
+        "Parque Metropolitano Simon Bolívar" : {
+          "latitud" : 4.658639,
+          "longitud" : -74.093924
+        }
+      }
+    },
+    "Romantica" : {
+      "Cultura y Relax" : {
+        "Casa de Arte y Diseño Luz Beula" : {
+          "latitud" : 4.621049,
+          "longitud" : -74.159738
+        },
+        "Casa de la Poesía" : {
+          "latitud" : 4.598819,
+          "longitud" : -74.070599
+        },
+        "Morfeo Café Relax" : {
+          "latitud" : 4.662104,
+          "longitud" : -74.059921
+        }
+      },
+      "Paisajes y alrededores" : {
+        "Irish Bar" : {
+          "latitud" : 4.667685,
+          "longitud" : -74.053664
+        },
+        "Mirador la Calera" : {
+          "latitud" : 4.674615,
+          "longitud" : -74.037002
+        },
+        "Restaurante El Cielo" : {
+          "latitud" : 4.651512,
+          "longitud" : -74.054563
+        },
+        "Torre Colpatria" : {
+          "latitud" : 4.611039,
+          "longitud" : -74.070289
+        }
+      }
+    }
+  },
+  "recorridos" : {
+    "LJfiHwAyrMg4XabamWZZTBEzwwF3" : {
+      "recorridos" : [ {
+        "destino" : "Cra. 51 #183-2 a 183-52, Bogotá, Colombia",
+        "fechaInicio" : "2017/10/28",
+        "horaInicio" : "19:35:0",
+        "km" : 1.2,
+        "origen" : "Cra. 49b #174a-83, Bogotá, Colombia",
+        "tiempo" : 6,
+        "tipo" : "Personal"
+      }, {
+        "destino" : "Cl. 176 #45-10, Bogotá, Colombia",
+        "fechaInicio" : "2017/10/28",
+        "horaInicio" : "19:35:16",
+        "km" : 0.4,
+        "origen" : "Cra. 49b #174a-83, Bogotá, Colombia",
+        "tiempo" : 2,
+        "tipo" : "Personal"
+      }, {
+        "destino" : "Cl. 209 #77-50, Bogotá, Colombia",
+        "fechaInicio" : "2017/10/28",
+        "horaInicio" : "19:38:44",
+        "km" : 5.4,
+        "origen" : "Cra. 49b #174a-83, Bogotá, Colombia",
+        "tiempo" : 13,
+        "tipo" : "Personal"
+      } ]
+    },
+    "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" : {
+      "recorridos" : [ {
+        "destino" : "Montaña Extrema",
+        "fechaInicio" : "2017/11/16",
+        "horaInicio" : "12:55:18",
+        "km" : 30.6,
+        "origen" : "Avenida Carrera 45 #153-34 a 153-40",
+        "tiempo" : 49,
+        "tipo" : "Especial"
+      } ]
+    }
+  },
+  "rutas" : {
+    "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" : {
+      "-Kxp0W44M6nWSjyqV3PJ" : {
+        "destino" : "Diagonal 23 Bis #19-1 a 19-99",
+        "latDestino" : 4.616467182098122,
+        "latOrigen" : 4.6287583,
+        "longDestino" : -74.07867215573788,
+        "longOrigen" : -74.0649983,
+        "origen" : "Carrera 7 #40b - 93",
+        "ruta" : 0
+      }
+    }
+  },
+  "solicitudGrupal" : {
+    "2FhEyeYD08bheLyPhSLyybn53wk2" : {
+      "-KxovLZMMDGvXQkAeTDJ" : {
+        "anfritrion" : "2ruDdoApgBc5MNkmf83atyrvZ8z2",
+        "nombre" : "PABLO GASTÁNDOSE ",
+        "viajeGrupal" : "-KxovLUdJGjN2u_VWd-W"
+      }
+    },
+    "2ruDdoApgBc5MNkmf83atyrvZ8z2" : {
+      "-Ky6kQ4WAjhzsjXiICC0" : {
+        "anfritrion" : "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2",
+        "nombre" : "ALEJANDRA",
+        "viajeGrupal" : "-Ky6kQ0GAIZGqLwLWssn"
+      }
+    },
+    "hlHnPIdMSfcqkBmLemIc4iONBna2" : {
+      "-Ky6kQ4X2nI3cQIrFeEO" : {
+        "anfritrion" : "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2",
+        "nombre" : "ALEJANDRA",
+        "viajeGrupal" : "-Ky6kQ0GAIZGqLwLWssn"
+      },
+      "-KzAAm4Z5dBGrs_BpscR" : {
+        "anfritrion" : "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2",
+        "nombre" : "ALEJANDRA",
+        "viajeGrupal" : "-KzAAm0vegCHw9ivBo-X"
+      }
+    }
+  },
+  "turismo programadas" : {
+    "-Kz9sUCS5xGEZ2d9CVeK" : {
+      "fecha" : "17/11/2017",
+      "hora" : "13:20",
+      "latDestino" : 5.716084799999999,
+      "latOrigen" : 4.630289748752318,
+      "longDestino" : -72.93112889999999,
+      "longOrigen" : -74.06404975801706,
+      "ruta" : 0,
+      "tipo" : "Programado-Turismo"
+    }
+  },
+  "ubicaciones" : {
+    "LJfiHwAyrMg4XabamWZZTBEzwwF3" : {
+      "latitud" : 4.7337748,
+      "longitud" : -74.0650117,
+      "nombre" : "felipe forero"
+    }
+  },
+  "users" : {
+    "2FhEyeYD08bheLyPhSLyybn53wk2" : {
+      "altura" : 1.68,
+      "correo" : "pppp@ho.com",
+      "edad" : 21,
+      "km" : 5.020000000000001,
+      "nombre" : "PABLO LOK",
+      "peso" : 55,
+      "rh" : "O+"
+    },
+    "2ruDdoApgBc5MNkmf83atyrvZ8z2" : {
+      "altura" : 1.8,
+      "correo" : "elsolomillos@millow.com",
+      "edad" : 21,
+      "km" : 20.994,
+      "nombre" : "PABLO GASTÁNDOSE ",
+      "peso" : 60,
+      "rh" : "O+"
+    },
+    "4rYZ1TDMeBeHokjaZjIHFNozIhb2" : {
+      "altura" : 1.7,
+      "correo" : "ppppp@ho.com",
+      "edad" : 80,
+      "km" : 0,
+      "nombre" : "JUAN CARLOS",
+      "peso" : 78,
+      "rh" : "O+"
+    },
+    "LJfiHwAyrMg4XabamWZZTBEzwwF3" : {
+      "altura" : 1.68,
+      "correo" : "pp@ho.com",
+      "edad" : 21,
+      "km" : 0,
+      "nombre" : "FELIPE FORERO",
+      "peso" : 60,
+      "rh" : "O+"
+    },
+    "N0MDFCLkxPOt7ge7Ifs4IJkCdDi2" : {
+      "altura" : 1.6,
+      "correo" : "ppp@ho.com",
+      "edad" : 20,
+      "km" : 129.08599999999998,
+      "nombre" : "ALEJANDRA",
+      "peso" : 45,
+      "rh" : "O+"
+    },
+    "eR1Q4PZ9ejOtRhr1U4UXKa2DfNq2" : {
+      "altura" : 1.7,
+      "correo" : "felichiki19@gmail.com",
+      "edad" : 30,
+      "km" : 0.0020000000000024443,
+      "nombre" : "FELIPE BAUTISTA",
+      "peso" : 75,
+      "rh" : "O+"
+    },
+    "enXyiCnViMPX47ddEFbhydL7dz82" : {
+      "altura" : 0,
+      "correo" : "tu@ho.com",
+      "edad" : 0,
+      "km" : 0,
+      "nombre" : "TURISMO",
+      "peso" : 0,
+      "rh" : "",
+      "tipo" : "turismo"
+    },
+    "hlHnPIdMSfcqkBmLemIc4iONBna2" : {
+      "altura" : 1.7,
+      "correo" : "prueba@ho.com",
+      "edad" : 21,
+      "km" : 0,
+      "nombre" : "NUEVO",
+      "peso" : 60,
+      "rh" : "O+"
+    }
+  }
+}

@@ -7,4 +7,6 @@ mensajería, etc.
 
 
 ## Información de miembro: [Wiki_Miembros](https://github.com/JFBF/CicliPointer/wiki).
+## Información de proyecto: [Proyecto](https://github.com/PUJCompMovM1730/CicliPointer).
+
 
